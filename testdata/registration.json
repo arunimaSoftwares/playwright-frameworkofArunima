@@ -1,0 +1,11 @@
+{
+
+    "name": "John Doe",
+    "email": "Sep21092026@example.com",
+    "password": "password123",
+    "interest": "JAVA",
+    "gender": "Female",
+    "state": "Maharashtra",
+    "hobbies": ["Reading", "Swimming", "Dancing"]
+
+}
