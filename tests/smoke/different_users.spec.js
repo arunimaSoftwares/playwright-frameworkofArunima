@@ -27,13 +27,6 @@ for (const user of multiuser)
 
     })
 }
-
-
-
-
-
-
-
 })
 
 
